@@ -1,13 +1,13 @@
-# Privacy Policy — Omedetou
+# Privacy Policy — Omedeto
 
 _Last updated: October 2, 2026_
 
-Omedetou is a Japanese study app. This policy explains, in plain terms, what the
+Omedeto is a Japanese study app. This policy explains, in plain terms, what the
 app does and does not do with your information.
 
 ## The short version
 
-**Omedetou does not collect anything about you.** There are no accounts, no
+**Omedeto does not collect anything about you.** There are no accounts, no
 sign-up, no analytics, no advertising, no trackers and no third-party SDKs. Your
 study progress never leaves your device unless you choose to send it somewhere.
 
